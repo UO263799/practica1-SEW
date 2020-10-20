@@ -2,7 +2,7 @@
 
 /** a=0 b=0 c=1**/
 html {
-    background-image: url(multimedia/fondo.jpg);
+    background-color: black;
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
