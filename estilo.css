@@ -137,7 +137,7 @@ td, th {
 /** a=0 b=0 c=1**/
 th { 
     background: grey;
-	color: white;
+	color: red;
     font-weight: normal; 
 }
 
@@ -152,7 +152,7 @@ aside a {
     list-style-type: none;
     width: 200px;
 	margin: 1.5em;
-	color: white;
+	color: red;
 }
 
 audio{
