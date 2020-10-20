@@ -2,10 +2,7 @@
 
 /** a=0 b=0 c=1**/
 html {
-    background-image: url(multimedia/fondo.jpg);
-	background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: black
 }
 
 /** a=0 b=0 c=1**/
@@ -136,8 +133,8 @@ td, th {
 
 /** a=0 b=0 c=1**/
 th { 
-    background: grey;
-	color: red;
+    background: white;
+	color: black;
     font-weight: normal; 
 }
 
@@ -158,5 +155,5 @@ aside a {
 audio{
     display: block;
 	margin: 0 auto;
-	border: 1px solid white;
+	border: 1px solid red;
 }
