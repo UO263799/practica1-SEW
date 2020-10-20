@@ -135,8 +135,8 @@ td, th {
 
 /** a=0 b=0 c=1**/
 th { 
-    background: grey;
-	color: white;
+    background: white;
+	color: black;
     font-weight: normal; 
 }
 
